@@ -7,8 +7,8 @@
 ## Model used
 
 ## Examples
+![ExampleImage](example_image.jpg?raw=true "ExampleImage")
 
-![ExampleImage](C:/Joke Generator/example_image.jpg?raw=true "ExampleImage")
 
 
 @misc{pungas,
