@@ -2,9 +2,17 @@
 
 ## Concept
 
+## Data
+
 ## Implementation
 
-## Model used
+## Models used
+
+* We initially used a LSTM model for training, but this didn't yield good jokes.
+
+* Then we decided to use GPT-2, since it is already trained on a huge corpus. 
+
+* As a result, our new model generated better jokes.
 
 ## Examples
 ![ExampleImage](example_image.jpg?raw=true "ExampleImage")
