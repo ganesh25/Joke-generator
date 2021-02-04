@@ -8,7 +8,7 @@
 
 ## Examples
 
-![ExampleImage](C:/Joke Generator/example_image.jpg)
+![ExampleImage]('C:/Joke Generator/example_image.jpg')
 
 
 @misc{pungas,
