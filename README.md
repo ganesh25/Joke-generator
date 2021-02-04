@@ -16,8 +16,12 @@ Alexa Skill to read Jokes generated using a Deep Learning model.
 
 * As a result, our new model generated better jokes.
 
-## Examples
-![ExampleImage](example_image.jpg?raw=true "ExampleImage")
+## Alexa Skills Interface with Examples
+
+![Example1](example1.png?raw=true "ExampleImage1")
+
+![Example2](example2.png?raw=true "ExampleImage2")
+
 
 ## Future Scope
 
