@@ -1,5 +1,5 @@
 # Joke-generator
-
+'''bibtex
 @misc{pungas,
         title={A dataset of English plaintext jokes.},
         url={https://github.com/taivop/joke-dataset},
@@ -8,3 +8,4 @@
         publisher = {GitHub},
         journal = {GitHub repository}
 }
+'''
