@@ -1,14 +1,14 @@
 # Joke-generator
 
-# Concept
+## Concept
 
-# Implementation
+## Implementation
 
-# Model used
+## Model used
 
-# Examples
+## Examples
 
-![Example_Image](C:\Joke Generator\example_image.jpg?raw=true "Title")
+![ExampleImage](C:\Joke Generator\example_image.jpg)
 
 
 @misc{pungas,
