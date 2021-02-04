@@ -22,11 +22,8 @@ Alexa Skill to read Jokes generated using a Deep Learning model.
 ## Future Scope
 
  * Remove offensive jokes due to biased data
-
- * 1 forward pass ~ 45 seconds*
-
- * Make the model fetching + reading out real time and automated 
- 
+ * 1 forward pass ~ 45 seconds
+ * Make the model fetching + reading out real time and automated
  * Make the model learn the difference between Humour and Sarcasm, since they are both distinct
 
 
