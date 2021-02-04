@@ -1,13 +1,15 @@
 # Joke-generator
 
-## Concept
+Alexa Skill to read Jokes generated using a Deep Learning model.
 
 ## Data
 
-## Implementation
+* We created a data crawler script to scrap jokes from reddit.
+
+## Pipeline
+![PipelineImage](pipeline.jpg?raw=true "PipelineImage")
 
 ## Models used
-
 * We initially used a LSTM model for training, but this didn't yield good jokes.
 
 * Then we decided to use GPT-2, since it is already trained on a huge corpus. 
